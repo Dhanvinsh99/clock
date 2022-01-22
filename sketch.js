@@ -9,7 +9,7 @@ function setup() {
 
 function draw() {
   background(255);
-  stroke(30)
+  stroke(40)
   textSize(30)
 
 var n = 0
